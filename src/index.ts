@@ -1,3 +1,7 @@
-const hello = (name: string): string => `Hello, ${name}!`;
+import Test from "./test";
 
-console.log(hello("ぐえ"));
+const App = () => {
+  Test();
+};
+
+App();
