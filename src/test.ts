@@ -1,5 +1,5 @@
 const Test = () => {
-  console.log("やあ、アリアルさんだよ。");
+   console.log("やあ、アリアルさんだよ。");
 };
 
 export default Test;

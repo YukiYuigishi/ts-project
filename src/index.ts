@@ -1,7 +1,7 @@
 import Test from "./test";
 
 const App = () => {
-  Test();
+   Test();
 };
 
 App();
