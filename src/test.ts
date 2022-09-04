@@ -1,5 +1,6 @@
-const Test = () => {
-   console.log("やあ、アリアルさんだよ。");
+const Test = (): string => {
+   return "やあ、アリアルさんだよ。"
 };
+
 
 export default Test;
