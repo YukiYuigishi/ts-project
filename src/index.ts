@@ -1,4 +1,4 @@
-import Test from "./test";
+import Test from "./foo";
 
 const App = () => {
    console.log(Test());
